@@ -28,29 +28,6 @@ All endpoints are tested using **Postman**, and test case screenshots are includ
 
 ---
 
-## 📁 Folder Structure
--coffee-shop/
--├── testCases/ # Test screenshots
--│ ├── Authtest.png
--│ ├── add_update_addr.png
--│ ├── dataBaseconnectio.png
--│ ├── databaseConnectWeb.png
--│ ├── getAddr.png
--│ ├── orders.png
--│ ├── pachase_checkup.png
--│ ├── postman_login.png
--│ ├── postman_register.png
--│ ├── productADD_JSON.png
--│ └── viewBillingProducts.png
--├── routes/
--├── controllers/
--├── config/
--├── .env
--├── package.json
--└── README.md
-
----
-
 ## 📸 Test Case Screenshots
 
 | Description                     | Image |
